@@ -47,10 +47,10 @@ section{
     line-height: 1.4;
 }
 .btn-default{
-    text-decoration: white;
+    color: white;
     background-color: #faa541;
 }
 .btn-primary{
-    text-decoration: white;
+    color: white;
     background-color: #364147;
 }
