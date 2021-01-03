@@ -36,3 +36,21 @@ section{
 .space-between{
     justify-content: space-between;
 }
+.btn{
+    cursor: pointer;
+    border: 0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 3px;
+    line-height: 1.4;
+}
+.btn-default{
+    text-decoration: white;
+    background-color: #faa541;
+}
+.btn-primary{
+    text-decoration: white;
+    background-color: #364147;
+}
